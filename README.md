@@ -18,7 +18,7 @@ or double click on BurpUnlimited.jar (set permision before)
  + **libfaketime*** Lib for hook time activation. Sourcecode is at https://github.com/faketime-java/faketime
 
 
-## Hash MD5 version release 1
+## File Hash MD5
 ```
 BurpUnlimited.jar                     22F603514ACA0F287DFDB1CC2CFB799F  
 lib/
