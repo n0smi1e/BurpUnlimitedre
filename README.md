@@ -1,5 +1,7 @@
 # BurpUnlimitedre update BurpSutie v1.7.27
 
+## 目录不要有空格或中文字符，windows 10 x64 运行正常。
+
 + Created by: x-Ai
 + Based on: BurpLoader by larry_lau && BurpUnlimited by mxcxvn
 + Github repos: https://github.com/x-Ai/BurpUnlimitedre
