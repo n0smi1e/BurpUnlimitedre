@@ -1,4 +1,4 @@
-# BurpUnlimitedre update BurpSutie v1.7.27
+# BurpUnlimitedre update BurpSuite v1.7.27
 
 ## 目录不要有空格或中文字符，windows 10 x64 运行无异常！
 
@@ -6,7 +6,7 @@
 + Based on: BurpLoader by larry_lau && BurpUnlimited by mxcxvn
 + Github repos: https://github.com/x-Ai/BurpUnlimitedre
 
-This project !replace! BurpUnlimited of depend (BurpSutie version 1.7.27). It is NOT intended to replace BurpLoader and BurpUnlimited！
+This project !replace! BurpUnlimited of depend (BurpSuite version 1.7.27). It is NOT intended to replace BurpLoader and BurpUnlimited！
 
 To run the project from the command line: 
 
