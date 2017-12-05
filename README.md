@@ -1,7 +1,5 @@
 # BurpUnlimitedre update BurpSuite v1.7.27
 
-## 目录不要有空格或中文字符，windows 10 x64 运行无异常！
-
 + Created by: x-Ai
 + Based on: BurpLoader by larry_lau && BurpUnlimited by mxcxvn
 + Github repos: https://github.com/x-Ai/BurpUnlimitedre
@@ -22,7 +20,7 @@ or double click on BurpUnlimited.jar (set permision before)
 
 ## File Hash MD5
 ```
-BurpUnlimited.jar                     22F603514ACA0F287DFDB1CC2CFB799F  
+BurpUnlimited.jar                     AC4725EA240E4E5F916708262C4F2C78  
 lib/
     burpsuite_pro_v1.7.27.jar	      F579B2B8692DDE5D0EF6388D91A98D55
     libfaketime32.dll		      E3842711A065B672DEC322C4140B950F
