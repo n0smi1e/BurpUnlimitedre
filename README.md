@@ -8,7 +8,7 @@ This project !replace! BurpUnlimited of depend (BurpSutie version 1.7.27). It is
 
 To run the project from the command line: 
 
-`java -javaagent:BurpUnlimited.jar -agentpath:lib/libfaketime<osverion> -jar BurpUnlimited.jar`
+`java -javaagent:BurpUnlimitedre.jar -agentpath:lib/libfaketime<osverion> -jar BurpUnlimitedre.jar`
 
 or double click on BurpUnlimited.jar (set permision before)
 
