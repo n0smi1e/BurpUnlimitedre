@@ -1,6 +1,6 @@
 # BurpUnlimitedre update BurpSuite v1.7.27
 
-神秘代码：链接: 某度/s/1ht1Fw2K 密码: h4ip
+s/1ht1Fw2K h4ip
 为买正版不心疼奋斗
 
 # 目录不要有中文和空格，64位操作系统不要使用32位的Jdk。酱紫你们就可以愉快的运行了！！！
